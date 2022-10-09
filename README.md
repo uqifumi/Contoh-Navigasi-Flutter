@@ -1,16 +1,8 @@
-# contoh_navigasi_flutter
+# Contoh Navigasi pada Flutter
+Program dengan flutter yang mendemonstrasikan navigasi dengan melewatkan data dari route asal ke route tujuan. 
 
-A new Flutter project.
+## Route Asal
+Route/screen yang menampilkan list artikel. Jika salah satu list terpilih maka akan dinavigasi ke route tujuan untuk ditampikan detail artikelnya. Adapun tampilan route ini adalah sebagai berikut:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Route Tujuan
+Route/screen tujuan yang menampilkan detail artikel terpilih dari route asal.  Berikut tampilan route tujuan yang dimaksud:
